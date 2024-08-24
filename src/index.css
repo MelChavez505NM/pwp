@@ -37,6 +37,11 @@
 /*    font-weight: bold;*/
 /*}*/
 
+/* styles.css */
+.map-container {
+    height: 100%;
+    overflow: hidden;
+}
 
 
 /*footer material*/
