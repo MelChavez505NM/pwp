@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header  {
+    background-color: white;
+    color: black;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.nav-link {
+    list-style: none;
+    display: flex;
+}
+
+.nav-link li{
+    margin: 0 15px;
+}
+
+.nav-link a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* styles.css */
+.map-container {
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/*footer material*/
+
+#icon1, #icon2, #icon3{
+    display: inline-flex;
+    width:48px;
+    height:48px;
+}
+
+#linkedin{
+    text-align:center;
+    margin:0;
+    width:42px;
+    height:42px;
+}
+
+#github{
+    text-align:center;
+    margin:0;
+    width:42px;
+    height:42px;
+}
+
+img[alt*="captain picard"]{
+    float: left;
+    border: 3px solid white;
+    max-width: 25%;
+    max-height: 15%;
+    margin-right: 15em;
+    margin-top: 25px;
+}
+.about-me{
+    display: block;
+    float: right;
+    padding: 10px 20px 20px 100px;
+    background-color: darkolivegreen;
+    color: black;
+    font-size: medium;
+    font-family: "Arial Unicode MS", cursive;
+}
+
+
+/* styles.css */
+.map-container {
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
+
+
+
