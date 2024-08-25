@@ -37,12 +37,6 @@ nav .container {
     font-weight: bold;
 }
 
-/* styles.css */
-.map-container {
-    height: 100%;
-    overflow: hidden;
-}
-
 
 /*footer material*/
 
@@ -66,7 +60,7 @@ nav .container {
     height:42px;
 }
 
-img[alt*="captain picard"]{
+img[alt*="Melissa"]{
     float: left;
     border: 3px solid white;
     max-width: 25%;
@@ -83,7 +77,6 @@ img[alt*="captain picard"]{
     font-size: medium;
     font-family: "Arial Unicode MS", cursive;
 }
-
 
 /* styles.css */
 .map-container {
