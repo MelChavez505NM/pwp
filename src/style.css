@@ -63,9 +63,9 @@ nav .container {
 img[alt*="Melissa"]{
     float: left;
     border: 3px solid white;
-    max-width: 25%;
-    max-height: 15%;
-    margin-right: 15em;
+    /*max-width: 25%;*/
+    /*max-height: 15%;*/
+    /*margin-right: 15em;*/
     margin-top: 25px;
 }
 .about-me{
