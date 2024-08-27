@@ -12,6 +12,7 @@ header  {
     z-index: 1000;
 }
 
+/*Nav bar*/
 
 nav .container {
     display: flex;
@@ -60,6 +61,7 @@ nav .container {
     height:42px;
 }
 
+/*About me*/
 img[alt*="Melissa"]{
     float: left;
     border: 3px solid white;
